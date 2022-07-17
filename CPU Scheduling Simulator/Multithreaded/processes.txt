@@ -1,0 +1,15 @@
+RR
+Average Waiting Time: 14.3333
+Average Turn Around Time: 21
+Through Put: 6.66667
+
+FCFS
+Average Waiting Time: 30.8571
+Average Turn Around Time: 39.8571
+Through Put: 9
+
+SJF
+Average Waiting Time: 6.16667
+Average Turn Around Time: 11
+Through Put: 4.83333
+
